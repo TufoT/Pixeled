@@ -145,7 +145,13 @@ h1 {
    .draw, .erase, .clear {
     font-size: 0.5rem;
    }
+    
     .footer {
-    margin-top: 30px;
+    margin-top: 20px;
+    }
+    
+    .footer a {
+    height: 15px;
+    width: 15px;
     }
 }
