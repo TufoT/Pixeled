@@ -135,6 +135,7 @@ h1 {
     .size-text,
     .bg-color {
         text-align: center;
+        font-size: 0.8rem
     }
 
     .color .bg-color {
