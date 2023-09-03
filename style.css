@@ -128,7 +128,7 @@ h1 {
 
     .tool {
         width: auto;
-        margin: 0.5rem;
+        margin: 0.3rem;
     }
 
     .tool-name,
@@ -136,4 +136,9 @@ h1 {
     .bg-color {
         text-align: center;
     }
+
+    .color .bg-color {
+    height: 15px;
+    width: 15px;
+}
 }
