@@ -148,10 +148,11 @@ h1 {
     
     .footer {
     margin-top: 20px;
+    margin-bottom 10px;
     }
     
     .footer a {
     height: 15px;
-    width: 15px;
+    width: 20px;
     }
 }
